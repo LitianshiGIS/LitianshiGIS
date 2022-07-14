@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript、Vue、Cesium、GIS...
 - 🌱 I’m currently learning B/S development based on Vue and Cesium
 - 💞️ I’m looking to collaborate with HER!!!
-- 📫 How to reach me litiannshi@ztgeo.com.cn
+- 📫 How to reach me litianshi@ztgeo.com.cn
 
 <!---
 LitianshiGIS/LitianshiGIS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
